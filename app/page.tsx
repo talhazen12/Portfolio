@@ -10,11 +10,11 @@ export default function Home() {
       {/* Scrollytelling Section */}
       <ScrollyCanvas />
       
-      {/* Tools Section */}
-      <Tools />
-
       {/* About Me Section */}
       <About />
+
+      {/* Tools Section */}
+      <Tools />
 
       {/* Work Grid Section */}
       <Projects />
